@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.idea
+*.csv
+__pycache__
